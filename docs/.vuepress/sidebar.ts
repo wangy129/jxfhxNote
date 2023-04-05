@@ -84,14 +84,6 @@ export default sidebar([
     children: "structure",
   },
   {
-    text: "🛖 生活记录",
-    icon: "",
-    prefix: "/family/",
-    link: "",
-    collapsible: true,
-    children: "structure",
-  },
-  {
     text: "博客文章",
     icon: "blog",
     prefix: "/_posts/",

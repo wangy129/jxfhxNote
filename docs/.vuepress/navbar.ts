@@ -35,11 +35,5 @@ export default navbar([
       },
     ],
   },
-  {
-    text: "生活",
-    icon: "emmet",
-    prefix: "/family/",
-    children: ["Diet", "Shoppinglist", "Coupon"],
-  },
   { text: "工具收藏", icon: "tool", link: "https://nav.newzone.top/" },
 ]);
